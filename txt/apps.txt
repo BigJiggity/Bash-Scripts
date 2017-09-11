@@ -1,0 +1,590 @@
+    TextEdit:
+      Version: 1.10
+    iTerm:
+      Version: 2.0.0.20150412
+    LibreOffice:
+      Version: 4.4.2002
+    Google Drive:
+      Version: 42.0.2311.90
+    HP Color LaserJet CM3530 MFP:
+      Version: 10.3
+    System Preferences:
+      Version: 14.0
+    Junos Pulse:
+      Version: 5.0
+    Installer:
+      Version: 6.1.0
+    Mail:
+      Version: 8.2
+    Preview:
+      Version: 8.0
+    Archive Utility:
+      Version: 10.10
+    Microsoft OneNote:
+      Version: 15.8
+    Microsoft Remote Desktop:
+      Version: 8.0.25886
+    App Store:
+      Version: 2.0
+    iOS Simulator:
+      Version: 8.3
+    Instruments:
+      Version: 6.3
+    FileMerge:
+      Version: 2.8
+    Application Loader:
+      Version: 3.1
+    Accessibility Inspector:
+      Version: 4.1
+    check_afp:
+      Version: 4.0
+    Network Diagnostics:
+      Version: 1.3
+    AirPort Base Station Agent:
+      Version: 2.2.1
+    AppleScript Utility:
+      Version: 1.1.2
+    Canon IJScanner2:
+      Version: 3.1.0
+    Canon IJScanner4:
+      Version: 3.1.0
+    ChineseTextConverterService:
+      Version: 2.1
+    EPSON Scanner:
+      Version: 5.7.6
+    EPFaxAutoSetupTool:
+      Version: 1.63
+    epsonfax:
+      Version: 1.63
+    commandFilter:
+      Version: 1.63
+    rastertoepfax:
+      Version: 1.63
+    FAX Utility:
+      Version: 1.63
+    Fax Receive Monitor:
+      Version: 1.63
+    Expansion Slot Utility:
+      Version: 1.5.1
+    Memory Slot Utility:
+      Version: 1.5.1
+    FileSyncAgent:
+      Version: 8.1
+    ImageCaptureService:
+      Version: 6.6
+    CMFSyncAgent:
+      Version: 10.0
+    InkServer:
+      Version: 10.9
+    KeyboardSetupAssistant:
+      Version: 10.7
+    Language Chooser:
+      Version: 1.0
+    ODSAgent:
+      Version: 1.8
+    PluginIM:
+      Version: 15
+    PressAndHold:
+      Version: 1.2
+    Droplet with Settable Properties:
+      Version: 1.0
+    Recursive File Processing Droplet:
+      Version: 1.0
+    Recursive Image File Processing Droplet:
+      Version: 1.0
+    SecurityFixer:
+      Version: 10.8
+    Summary Service:
+      Version: 2.0
+    SyncServer:
+      Version: 8.1
+    Conflict Resolver:
+      Version: 8.1
+    syncuid:
+      Version: 8.1
+    UserNotificationCenter:
+      Version: 3.3.0
+    VietnameseIM:
+      Version: 1.4
+    ZoomWindow:
+      Version: 2.0
+    Wish:
+      Version: 8.4.19
+    Wish:
+      Version: 8.5.9
+    Python:
+      Version: 2.6.9
+    Python:
+      Version: 2.7.6
+    Jar Launcher:
+      Version: 15.0.0
+    Java Web Start:
+      Version: 15.0.0
+    X11:
+      Version: 1.0.1
+    Dashboard:
+      Version: 1.8
+    Digital Color Meter:
+      Version: 5.10
+    Launchpad:
+      Version: 1.0
+    Mission Control:
+      Version: 1.2
+    Time Machine:
+      Version: 1.3
+    JapaneseIM:
+      Version: 5.0
+    Photos Agent:
+      Version: 1.0
+    Cathode:
+      Version: 2.3.0
+    BetterSnapTool:
+      Version: 1.5
+    Locko:
+      Version: 1.2.1
+    NetSpot:
+      Version: 1.3.409
+    SubnetCalc:
+      Version: 1.2
+    Alfred 2:
+      Version: 2.7.1
+    Blackmagic Disk Speed Test:
+      Version: 2.2.2
+    Automator:
+      Version: 2.5
+    Calculator:
+      Version: 10.8
+    Chess:
+      Version: 3.12
+    Contacts:
+      Version: 9.0
+    Dictionary:
+      Version: 2.2.1
+    FaceTime:
+      Version: 3.0
+    Game Center:
+      Version: 2.0
+    Image Capture:
+      Version: 6.6
+    Maps:
+      Version: 2.0
+    Notes:
+      Version: 3.3
+    QuickTime Player:
+      Version: 10.4
+    Reminders:
+      Version: 3.0
+    Stickies:
+      Version: 10.0
+    Activity Monitor:
+      Version: 10.10.0
+    Audio MIDI Setup:
+      Version: 3.0.6
+    Bluetooth File Exchange:
+      Version: 4.3.4
+    iTunes:
+      Version: 12.1.2
+    Boot Camp Assistant:
+      Version: 5.1.4
+    Console:
+      Version: 10.10
+    Grab:
+      Version: 1.8
+    Grapher:
+      Version: 2.5
+    Keychain Access:
+      Version: 9.0
+    Migration Assistant:
+      Version: 5
+    Script Editor:
+      Version: 2.7
+    DVD Player:
+      Version: 5.7
+    VoiceOver Utility:
+      Version: 7.0
+    Directory Utility:
+      Version: 5.0
+    Network Utility:
+      Version: 1.8
+    RAID Utility:
+      Version: 4.0
+    Screen Sharing:
+      Version: 1.6.3
+    Wireless Diagnostics:
+      Version: 4.2
+    iBooks:
+      Version: 1.1.1
+    HelpViewer:
+      Version: 5.2
+    Photos:
+      Version: 1.0
+    AirPort Utility:
+      Version: 6.3.5
+    ColorSync Utility:
+      Version: 4.10.0
+    Disk Utility:
+      Version: 13
+    System Information:
+      Version: 10.10
+    Finder:
+      Version: 10.10.4
+    Cocoa-AppleScript Applet:
+      Version: 1.0
+    Display Calibrator:
+      Version: 4.10.0
+    AddPrinter:
+      Version: 10.3
+    AddressBookUrlForwarder:
+      Version: 9.0
+    AirPlayUIAgent:
+      Version: 2.0
+    AppDownloadLauncher:
+      Version: 1.0
+    AppleFileServer:
+      Version: 2.0
+    AppleGraphicsWarning:
+      Version: 2.3.0
+    Automator Runner:
+      Version: 2.5
+    Bluetooth Setup Assistant:
+      Version: 4.3.4
+    BluetoothUIServer:
+      Version: 4.3.4
+    CalendarFileHandler:
+      Version: 8.0
+    Captive Network Assistant:
+      Version: 3.1
+    CoreLocationAgent:
+      Version: 1,486.12
+    CoreServicesUIAgent:
+      Version: 134.7
+    Database Events:
+      Version: 1.0.6
+    DiskImageMounter:
+      Version: 10.10.1
+    Dock:
+      Version: 1.8
+    File Sync:
+      Version: 8.1
+    Folder Actions Dispatcher:
+      Version: 1.0.4
+    Folder Actions Setup:
+      Version: 1.1.6
+    Image Events:
+      Version: 1.1.6
+    Install Command Line Developer Tools:
+      Version: 1.0
+    Install in Progress:
+      Version: 3.0
+    Certificate Assistant:
+      Version: 5.0
+    Keychain Circle Notification:
+      Version: 1.0
+    LocationMenu:
+      Version: 1.0
+    loginwindow:
+      Version: 10.4
+    NetAuthAgent:
+      Version: 5.2
+    Notification Center:
+      Version: 1.0
+    OBEXAgent:
+      Version: 4.3.4
+    Pass Viewer:
+      Version: 1.0
+    PowerChime:
+      Version: 1.0
+    Problem Reporter:
+      Version: 10.10
+    rcd:
+      Version: 327.5
+    RegisterPluginIMApp:
+      Version: 15
+    ARDAgent:
+      Version: 3.8.3
+    ReportPanic:
+      Version: 10.10
+    ScriptMonitor:
+      Version: 1.0
+    Setup Assistant:
+      Version: 10.10
+    ShareBear:
+      Version: 1.0
+    SocialPushAgent:
+      Version: 25
+    Software Update:
+      Version: 6
+    Spotlight:
+      Version: 1.0
+    System Events:
+      Version: 1.3.6
+    SystemUIServer:
+      Version: 1.7
+    ThermalTrap:
+      Version: 1.0
+    Ticket Viewer:
+      Version: 4.0
+    UniversalAccessControl:
+      Version: 7.0
+    UnmountAssistantAgent:
+      Version: 5.0
+    VoiceOver:
+      Version: 7.0
+    Wi-Fi:
+      Version: 1.0
+    ManagedClient:
+      Version: 7.1
+    Network Setup Assistant:
+      Version: 10.8.0
+    Photo Library Migration Utility:
+      Version: 1.0
+    ABAssistantService:
+      Version: 9.0
+    AddressBookManager:
+      Version: 9.0
+    AddressBookSourceSync:
+      Version: 9.0
+    AddressBookSync:
+      Version: 9.0
+    FontRegistryUIAgent:
+      Version: 81.0
+    SpeechSynthesisServer:
+      Version: 5.3.3
+    PrinterProxy:
+      Version: 10.3
+    IMServicePlugInAgent:
+      Version: 10.0
+    Widget Simulator:
+      Version: 1.0
+    PubSubAgent:
+      Version: 1.0.5
+    QuickLookUIHelper:
+      Version: 5.0
+    quicklookd:
+      Version: 5.0
+    quicklookd32:
+      Version: 5.0
+    ScreenSaverEngine:
+      Version: 5.0
+    DatabaseProcess:
+      Version: 10600
+    NetworkProcess:
+      Version: 10600
+    PluginProcess:
+      Version: 10600
+    WebKitPluginHost:
+      Version: 10600
+    WebProcess:
+      Version: 10600
+    Build Web Page:
+      Version: 10.2
+    MakePDF:
+      Version: 10.2
+    AirScanScanner:
+      Version: 10.3
+    MassStorageCamera:
+      Version: 10.2
+    PTPCamera:
+      Version: 10.2
+    Type4Camera:
+      Version: 10.2
+    Type5Camera:
+      Version: 10.2
+    Type8Camera:
+      Version: 10.2
+    VirtualScanner:
+      Version: 4.2
+    AutoImporter:
+      Version: 6.6
+    Image Capture Extension:
+      Version: 10.2
+    50onPaletteServer:
+      Version: 1.1.0
+    AinuIM:
+      Version: 1.0
+    CharacterPalette:
+      Version: 2.0.1
+    Dictation:
+      Version: 1.6.1
+    KeyboardViewer:
+      Version: 3.2
+    KoreanIM:
+      Version: 6.4
+    SCIM:
+      Version: 102
+    Switch Control:
+      Version: 2.0
+    TamilIM:
+      Version: 1.6
+    TCIM:
+      Version: 102
+    TrackpadIM:
+      Version: 1.5
+    Calibration Assistant:
+      Version: 1.0
+    iCloudUserNotificationsd:
+      Version: 1.0
+    AOSAlertManager:
+      Version: 1.06
+    AOSHeartbeat:
+      Version: 1.06
+    AOSPushRelay:
+      Version: 1.06
+    AskPermissionUI:
+      Version: 1.0
+    iCloud Drive:
+      Version: 1.0
+    EscrowSecurityAlert:
+      Version: 1.0
+    LaterAgent:
+      Version: 1.0
+    storeuid:
+      Version: 1.0
+    CIMFindInputCodeTool:
+      Version: 102
+    DiskImages UI Agent:
+      Version: 10.10.1
+    eaptlstrust:
+      Version: 13.0
+    ParentalControls:
+      Version: 4.1
+    Family:
+      Version: 1.0
+    FindMyMacMessenger:
+      Version: 4.1
+    identityservicesd:
+      Version: 10.0
+    IDSRemoteURLConnectionAgent:
+      Version: 10.0
+    imagent:
+      Version: 10.0
+    IMTransferAgent:
+      Version: 10.0
+    soagent:
+      Version: 7.0
+    nbagent:
+      Version: 1.0
+    SpotlightNetHelper:
+      Version: 1.0
+    ScreenReaderUIServer:
+      Version: 7.0
+    VoiceOver Quickstart:
+      Version: 7.0
+    Speech Downloader:
+      Version: 5.1.1
+    SpeechRecognitionServer:
+      Version: 5.1.1
+    FindReaperFiles:
+      Version: 802
+    universalAccessAuthWarn:
+      Version: 1.0
+    SpeechService:
+      Version: 5.3.3
+    Spotlight:
+      Version: 3.0
+    MiniTerm:
+      Version: 1.9
+    Feedback Assistant:
+      Version: 4.1.3
+    System Image Utility:
+      Version: 10.10.3
+    Terminal:
+      Version: 2.5.3
+    Photo Booth:
+      Version: 7.0
+    Google Drive:
+      Version: 1.20
+    Centrify Join Assistant:
+      Version: 5.2.1
+    AD Check:
+      Version: 5.2.1
+    Smart Card Assistant:
+      Version: 5.2.1
+    AD Password Check:
+      Version: 5.2.1
+    SmartCardWatcher:
+      Version: 5.2.1
+    Centrify User Portal:
+      Version: 1.0
+    OnyX:
+      Version: 2.9.6
+    LiveUpdate:
+      Version: 6.2.2
+    SmallScanner:
+      Version: 100.1
+    Symantec Endpoint Protection:
+      Version: 12.1.5337.5000
+    McAfee ePO Remote Provisioning Tool:
+      Version: 1.0
+    Configuration Manager:
+      Version: 5.0.7958.1102
+    Configuration Manager:
+      Version: 5.0.7958.1102
+    SyLinkDrop:
+      Version: 1.0
+    SymUIAgent:
+      Version: 5.2.1
+    McAfee Reporter:
+      Version: 9.0
+    Menulet:
+      Version: 1.0
+    Safari:
+      Version: 8.0.5
+    commandtohp:
+      Version: 2.2.1
+    fax:
+      Version: 5.16.0
+    rastertofax:
+      Version: 5.16.0
+    hpPreProcessing:
+      Version: 1.6.1
+    HP Event Status:
+      Version: 5.23.4
+    LegacyScanEventHandler:
+      Version: 5.23.4
+    ScanEventHandler:
+      Version: 1.2.0
+    HP Scanner 3:
+      Version: 4.8.1
+    hpdot4d:
+      Version: 4.10.3
+    HP Utility:
+      Version: 5.23.4
+    Trim Enabler:
+      Version: 3.3
+    DriveDx:
+      Version: 1.3.0
+    HP Color LaserJet CP3505:
+      Version: 10.3
+    Xcode:
+      Version: 6.3.1
+    AppleMobileSync:
+      Version: 5.0
+    AppleMobileDeviceHelper:
+      Version: 5.0
+    Google Chrome:
+      Version: 42.0.2311.90
+    Google Docs:
+      Version: 42.0.2311.90
+    Gmail:
+      Version: 42.0.2311.90
+    Google Search:
+      Version: 42.0.2311.90
+    YouTube:
+      Version: 42.0.2311.90
+    Gmail:
+      Version: 42.0.2311.90
+    Google Search:
+      Version: 42.0.2311.90
+    Google Drive:
+      Version: 42.0.2311.90
+    YouTube:
+      Version: 42.0.2311.90
+    Messages:
+      Version: 8.0
+    Font Book:
+      Version: 5.0
+    Calendar:
+      Version: 8.0
+    McAfee Endpoint Protection for Mac:
+      Version: 2.2.0
